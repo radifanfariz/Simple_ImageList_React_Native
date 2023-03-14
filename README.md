@@ -4,7 +4,8 @@
 ------------
 
 
-Install all dependecies :
-`npm install` or `yarn install`
-Run The App :
+Install all dependecies : <br/>
+`npm install` or `yarn install` <br/>
+<br/>
+Run The App : <br/>
 `expo start`
